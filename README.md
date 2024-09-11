@@ -1,5 +1,6 @@
 # Gene-Expression-Correlation-with-Methylation-and-Cellular-Aging-at-Single-Cell-Resolution
 הפרויקט שלנו חוקר במציאת ההבדל בין גיל כרונולוגי לגיל ביולוגי של תאים .
+
 אז מה תוכל למצוא כאן?
 data1.rdata - הקובץ מכיל את כל האנליזה ההתחלתית הכוללת את כל סוגי התאים שרוצפו בטנלוגיית single cell RNA - seq .
 data1.rdata - הקובץ הנ"ל מכיל את המשך האנליזה שבוצעה רק על התאים עליהם קיבלנו מידע גם על המתילציה .
